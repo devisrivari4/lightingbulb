@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    
+}
+img{
+    border: 1px solid red;
+}
+button{
+    background-color:purple;
+    color: white;
+    width: 50px;
+    height: 50px;
+    justify-content: space-evenly;
+
+}
